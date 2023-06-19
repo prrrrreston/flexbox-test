@@ -7,3 +7,5 @@ hello
  12121
 
  set upstream
+
+ test upstream
